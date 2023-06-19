@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-
+file:///private/var/folders/2f/17sm5yk52sg0sp59_hlsc_x00000gn/T/24a96855c97594f17872c9838cda03b5/Kapture%202023-06-18%20at%2011.46.55.gif
 
 [Kap](https://getkap.co/) for macOS
 
